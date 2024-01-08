@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kK0ylVvR0dFJIKEKuvffQ5+yhlk75yg7yLab4GwzYj0=",
+  "Source": "SampleMultitenantAutofac",
+  "BasePath": "_content/SampleMultitenantAutofac",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
